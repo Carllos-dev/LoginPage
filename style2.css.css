@@ -1,0 +1,79 @@
+body {
+    background-color: yellow;
+    font-size: 40px;
+}
+.img {
+    position: relative;
+    top: 0 auto;
+    bottom: 2px;
+    left: 5px;
+    width: 300px;
+    height: 110px;
+    border-radius: 50%;
+}
+#reset {
+    position: relative;
+    left: 20px;
+}
+.head {
+    background-color: whitesmoke;
+    position: relative;
+    padding: 4px 1060px 2px 5px;
+    display: flex;
+    border: solid #000 3px;
+    border-radius: 40px;
+}
+.caixa {
+    position: relative;
+    top: 90px;
+    left: 24%;
+    width: 50vw;
+    height: 40vh;
+    text-align: center;
+    background-color: whitesmoke;
+    display: table;
+    border: solid #000 2px;
+    padding: 45px 5px 0px 0px;
+}
+.titulo {
+    position: relative;
+    top: 0px;
+    font-size: 60%;
+}
+.email {
+    position: relative;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.email:hover {
+    padding: 5px 10px 5px 10px;
+    color: #000;
+    border-radius: 20px;
+}
+.ent {
+    position: relative;
+    top: 7px;
+    padding: 10px 50px 10px 50px;
+    background-color: orangered;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    transition: all 1s;
+}
+.ent:hover {
+    padding: 7px 50px 7px 50px;
+    background-color: royalblue;
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    font-family: georgia,'Times New Roman', Times, serif;
+    border-radius: 20px;
+}
+.f {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    top: 100px;
+    left: 5px;
+}
